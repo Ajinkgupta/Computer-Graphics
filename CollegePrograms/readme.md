@@ -1,6 +1,5 @@
-# 1 To implement DDA Algorithm for Drawing a Line Segment between two Given end Points A(x1,y1) and B(x2,y2) .
-
-'''
+## 1 To implement DDA Algorithm for Drawing a Line Segment between two Given end Points A(x1,y1) and B(x2,y2) .
+```
 #include<stdio.h>
 #include<graphics.h>
 #include<math.h>
@@ -50,5 +49,5 @@ delay(100);
 getch();
 closegraph();
 }
-'''
+```
 
